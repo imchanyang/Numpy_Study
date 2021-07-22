@@ -1,5 +1,5 @@
 # Numpy_Study
-Numpy 공부 저장소입니다.
+Python - Numpy 공부 저장소입니다.
 
 - 기본 개념
 - 행렬 형태 바꾸기
